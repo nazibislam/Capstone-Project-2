@@ -1,0 +1,39 @@
+#title{
+    background-color: #F9ED69;
+}
+
+.head{
+    font-family: "Noto Serif", serif;
+    font-weight: bolder;
+}
+.headp{
+    font-family: sans-serif;
+}
+
+.pic{
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+#education{
+    background-color: #FDE49E;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+
+#experience{
+    background-color: aliceblue;
+}
+#footer{
+    background-color:rgb(135, 184, 63)    
+}
+
+.bg-opacity-55{
+    border-radius: 5%;
+}
